@@ -1,0 +1,12 @@
+[project]
+name = "signal-factory"
+version = "0.0.0"
+description = "News- and filings-driven stock signal engine"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
