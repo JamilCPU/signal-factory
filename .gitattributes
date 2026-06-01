@@ -1,0 +1,3 @@
+# Normalize line endings: store and check out text as LF on all platforms.
+# Keeps the Windows dev box and the Linux (Pi) deploy target byte-identical.
+* text=auto eol=lf
