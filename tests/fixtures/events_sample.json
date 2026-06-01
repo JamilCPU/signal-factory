@@ -1,0 +1,20 @@
+[
+  {
+    "source": "edgar",
+    "event_type": "8-K",
+    "ticker": "aapl",
+    "title": "Apple files 8-K on material event",
+    "body": "The company disclosed a material event.",
+    "url": "https://example.com/aapl-8k",
+    "published_at": "2026-06-01T14:30:00+00:00"
+  },
+  {
+    "source": "alphavantage",
+    "event_type": "news",
+    "ticker": "MSFT",
+    "title": "Microsoft announces buyback",
+    "body": "Board approves share repurchase.",
+    "url": "https://example.com/msft-news",
+    "published_at": "2026-06-01T15:00:00+00:00"
+  }
+]
