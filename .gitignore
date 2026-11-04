@@ -6,3 +6,17 @@ __pycache__/
 .venv/
 venv/
 .env
+.env.*
+!.env.example
+*.keys
+*.sqlite3
+node_modules/
+bin/
+obj/
+dist/
+build/
+.vs/
+.idea/
+*.class
+target/
+.coverage
